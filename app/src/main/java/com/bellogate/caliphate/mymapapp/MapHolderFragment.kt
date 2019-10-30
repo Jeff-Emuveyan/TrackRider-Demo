@@ -397,7 +397,7 @@ class MapHolderFragment : Fragment(), OnMapReadyCallback {
         marker = googleMap?.addMarker(
             MarkerOptions().position(latLngA!!)
                 .flat(true)
-                .icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_car))
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.rsz_ic_car))
         )
         val handler = Handler()
         var index = -1
