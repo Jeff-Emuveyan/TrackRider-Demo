@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMapApp</string>
+    <string name="move_to_location">Move to location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="trackrider">TrackRider</string>
+
+    <string name="my_api_key">AIzaSyBVXrrlTYWjbN88_Qz6gXe27tGinMFEm-s</string>
+</resources>
